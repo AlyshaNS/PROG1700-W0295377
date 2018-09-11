@@ -1,0 +1,19 @@
+"""
+
+In Class 20180911
+
+Hello World
+
+Name..: ALysha Rogers
+ID....:W0295377
+"""
+
+_AUTHOR_ = "Alysha Rogers <w0295377@nscc.ca>"
+
+
+def main():
+    print("Hello World")
+
+
+if _Alysha_ == "_main_":
+    main() 
